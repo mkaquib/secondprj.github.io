@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/secondprj.github.io/static/css/main.8eb20739.css",
+    "main.js": "/secondprj.github.io/static/js/main.013e06d4.js",
+    "static/media/5.png": "/secondprj.github.io/static/media/5.9388ec8c6cacbb4d238e.png",
+    "static/media/3.jpg": "/secondprj.github.io/static/media/3.04220ae5e2dc07aa7c4a.jpg",
+    "static/media/1.jpg": "/secondprj.github.io/static/media/1.78647b876cebccd8114a.jpg",
+    "static/media/4.jpg": "/secondprj.github.io/static/media/4.c90b6850cbf9277ab0ec.jpg",
+    "static/media/2.jpg": "/secondprj.github.io/static/media/2.ff3c862f2c7188c34104.jpg",
+    "index.html": "/secondprj.github.io/index.html",
+    "main.8eb20739.css.map": "/secondprj.github.io/static/css/main.8eb20739.css.map",
+    "main.013e06d4.js.map": "/secondprj.github.io/static/js/main.013e06d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eb20739.css",
+    "static/js/main.013e06d4.js"
+  ]
+}
