@@ -15,6 +15,7 @@ import {FaMoon,FaSun} from 'react-icons/fa'
         variant='ghost'
         color={'current'}
         pos='fixed'
+        zIndex={'overlay'}
         top={'4'}
         right={'4'}
         marginLeft='2'

@@ -9,6 +9,7 @@ function Header() {
   return (
     <>
         <Button
+        zIndex={'overlay'}
          pos={'fixed'}
          top="4"
          left={"4"}
@@ -44,7 +45,7 @@ function Header() {
                         </VStack>
                         <HStack position={'absolute'} bottom="10" left={'0'} w='full' justifyContent={'space-evenly'}>
                             <Button onClick={onClose} colorScheme={'purple'}>
-                                <Link to={'/signin'}>Log In</Link>
+                                <Link to={'/login'}>Log In</Link>
                             </Button>
                             <Button onClick={onClose} colorScheme={'purple'} variant="outline">
                                 <Link to={'/signup'}>Sign Up</Link>
